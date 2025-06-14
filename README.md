@@ -1,4 +1,4 @@
 # wahidrashid
-My personal repositary 
+My personal repository 
 
 JavaScript Developer
