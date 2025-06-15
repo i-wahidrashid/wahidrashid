@@ -1,8 +1,8 @@
 # wahidrashid
 
- "Wahid Rashid"
+ Wahid Rashid
  
- "i.wahidrashid@gmail.com"
+ i.wahidrashid@gmail.com
 
 My personal repository 
 
