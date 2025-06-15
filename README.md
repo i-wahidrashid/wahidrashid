@@ -1,4 +1,8 @@
 # wahidrashid
+
+git config --global user.name "Wahid Rashid"
+git config --global user.email "i.wahidrashid@gmail.com"
+
 My personal repository 
 
 🚀 JavaScript Learner | 💻 Web Development Enthusiast
